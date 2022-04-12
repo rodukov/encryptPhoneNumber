@@ -24,3 +24,8 @@ Or you can use a ready-made file that compiles the program from the source code.
 ```bash
 chmod +x run.sh && ./run.sh
 ```
+
+## Example
+📌 For example, we have this Japanese number +54 310 54095982. After editing the variable, we get the following result:<br>
+`( 13487400000 - -2702039647991 ) * 2 * 1`<br>
+If you solve this mathematical expression we will get the original number
