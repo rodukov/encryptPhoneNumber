@@ -2,15 +2,16 @@
 ℹ️ This command takes a phone number and makes a mathematical example out of it
 
 ## Install
+### Download
 ```bash
 git clone https://github.com/rodukov/encryptPhoneNumber
 cd encryptPhoneNumber
 ```
 
-## Prepare the program to run
+### Prepare the program to run
 Edit the `userphone.phonenumber` variable in the `main()` function
 
-## Run the program
+### Run the program
 Compile the program yourself
 ```bash
 g++ main.cpp -o main
